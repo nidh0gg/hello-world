@@ -1,2 +1,4 @@
 # hello-world
-Hello-world repository
+============
+
+Hello, my IGN is Nidh0gg and i know C++, html, CSS, Jquery, PHP, and C#!
